@@ -8,7 +8,7 @@ scanners:
     - sast 
     - dast 
     - secret 
-    -sca 
+    - sca 
     - iac 
     - container
 
